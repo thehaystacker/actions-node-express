@@ -1,0 +1,19 @@
+1. Intro
+    1. What is express?
+        1. middleware, routing, subapplications, conveniences
+
+    2. Basics of node.js
+    3. Foundations of express.js
+
+2. Core
+    1. Middleware
+    2. Routing
+    3. Building API's
+    4. View and templates: PUG and Ejs
+
+3. Express in context
+    1. Persisting data with mongodb
+    2. Testing express applications
+    3. Security
+    4. Deployment
+    5. Best practices
